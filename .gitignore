@@ -1,0 +1,64 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files (do not store sensitive data in VCS)
+*.jks
+
+# External native build folder
+.externalNativeBuild/
+
+# Crashlytics / Firebase
+crashlytics.properties
+firebase/
+
+# Generated files
+captures/
+outputs/
+
+# IntelliJ
+out/
+
+# NDK
+.obj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Kotlin build folder
+.kapt/
+kotlin/
+
+# Dependency cache
+.cxx/
+
+# Testing
+test-results/
+reports/
+
+# Node modules (if using React Native, hybrid projects)
+node_modules/
+
+# Jetpack Compose Compiler Cache
+.compose-cache/
+
+# Build artifact intermediates
+intermediates/
+
